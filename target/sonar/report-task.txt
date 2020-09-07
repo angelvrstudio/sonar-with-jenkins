@@ -1,6 +1,0 @@
-projectKey=com.techprimers.testing:jenkins-example
-serverUrl=http://localhost:9000
-serverVersion=7.5.0.20543
-dashboardUrl=http://localhost:9000/dashboard?id=com.techprimers.testing%3Ajenkins-example
-ceTaskId=AXRoJUg4kJcuHr2_W0qT
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRoJUg4kJcuHr2_W0qT
